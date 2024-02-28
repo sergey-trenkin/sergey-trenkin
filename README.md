@@ -7,6 +7,6 @@ Hi 👀, I’m Sergey
 - I’m currently learning python frameworks, SQL and Airflow
 
 - 📫 How to reach me:
-    email - tristessergey@gmail.com
-    tg - @tristes_se
-    linkedin - https://www.linkedin.com/in/sergey-trenkin-1776a2235/
+  - email - tristessergey@gmail.com
+  - tg - @tristes_se
+  - linkedin - https://www.linkedin.com/in/sergey-trenkin-1776a2235/
