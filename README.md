@@ -9,4 +9,4 @@ Hi 👀, I’m Sergey
 - 📫 How to reach me:
   - email - tristessergey@gmail.com
   - tg - @tristes_se
-  - linkedin - https://www.linkedin.com/in/sergey-trenkin-1776a2235/
+  - linkedin - https://www.linkedin.com/in/sergey-trenkin/
